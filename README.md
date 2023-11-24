@@ -44,3 +44,5 @@ Este código en C++ utiliza la biblioteca SDL (Simple DirectMedia Layer) para re
     - Al salir del bucle principal, se liberan los recursos de SDL.
 
 #MI MODELO:
+
+![Alt Text](SR1.gif)
